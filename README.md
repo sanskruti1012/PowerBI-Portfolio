@@ -1,6 +1,9 @@
 # PowerBI-Portfolio
-Power BI dashboards and data analytics projects
-A collection of interactive Power BI dashboards developed to demonstrate skills in data analysis, data visualization, data transformation, DAX, and data modeling. The portfolio includes different business-focused projects with interactive reports, KPIs, slicers, filters, and visualizations to derive meaningful insights from data.
+## 👩‍💻 About Me
+
+Power BI Developer with 2 years of professional experience in developing interactive dashboards and business reports. Passionate about transforming data into meaningful insights through effective visualization and dashboard design.
+
+Below are some of my sample Power BI projects showcasing my practical experience and dashboard development skills.
 
 Skills & Tools: Power BI | DAX | Power Query | SQL | Data Modeling | Data Visualization | KPI Analysis | Interactive Dashboards | Data Cleaning & Transformation
 
