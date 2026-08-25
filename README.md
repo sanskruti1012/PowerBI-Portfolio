@@ -6,4 +6,5 @@ Skills & Tools: Power BI | DAX | Power Query | SQL | Data Modeling | Data Visual
 📊 Dashboard Preview
 ![Aircraft Dashboard](./Aircraft-Analytics-Dashboard/Aircraft%20dashboard.png)
 ![Crypto Currency Dashboard](./Crypto-Currency-Dashboard/Crypto%20Currency%20dashboard.png)
+![Bank Analysis Dashboard](./Bank%20Analytics%20Dashboard/Bank%20analysis%20dashboard.png)
 
