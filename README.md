@@ -1,7 +1,7 @@
 # PowerBI-Portfolio
 ## 👩‍💻 About Me
 
-Power BI Developer with 2 years of professional experience in developing interactive dashboards and business reports. Passionate about transforming data into meaningful insights through effective visualization and dashboard design.
+Power BI Developer with 2+ years of professional experience in developing interactive dashboards and business reports. Passionate about transforming data into meaningful insights through effective visualization and dashboard design.
 
 Below are some of my sample Power BI projects showcasing my practical experience and dashboard development skills.
 
